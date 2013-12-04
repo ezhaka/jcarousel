@@ -31,7 +31,7 @@
     position: relative;
     overflow: hidden;
     width: 600px;
-    height: 400px;
+    height: 90px;
 }
 
 .jcarousel ul {
@@ -46,12 +46,22 @@
     float: left;
 }
 
+.jcarousel ul li .city {
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.jcarousel ul li .city.selected {
+    color: #3C92FF;
+}
+
 /** Carousel Controls **/
 
 .jcarousel-control-prev,
 .jcarousel-control-next {
     position: absolute;
-    top: 200px;
+    top: 10px;
     width: 30px;
     height: 30px;
     text-align: center;

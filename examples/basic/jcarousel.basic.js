@@ -1,6 +1,11 @@
 (function($) {
     $(function() {
-        $('.jcarousel').jcarousel();
+        $('.jcarousel').jcarousel({ wrap: 'circular' });
+
+        $('.jcarousel ul li .city').click(function () {
+            $(this).parent().siblings().find('.selected').removeClass('selected');
+            $(this).addClass('selected');
+        });
 
         $('.jcarousel-control-prev')
             .on('active.jcarouselcontrol', function() {
@@ -24,6 +29,8 @@
                 target: '+=1'
             });
 
+        /*
+
         $('.jcarousel-pagination')
             .on('active.jcarouselpagination', 'a', function() {
                 $(this).addClass('active');
@@ -32,5 +39,7 @@
                 $(this).removeClass('active');
             })
             .jcarouselPagination();
+
+        */
     });
 })(jQuery);
