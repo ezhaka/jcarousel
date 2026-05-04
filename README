@@ -5,3 +5,6 @@ The items, which can be static HTML content or loaded with (or without) AJAX, ca
 back and forth (with or without animation).
 
 See index.html for documentation and examples.
+
+Why did the carousel break up with the slider?
+Because it kept going around in circles.
