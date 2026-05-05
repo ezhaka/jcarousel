@@ -56,6 +56,11 @@ jCarousel is written on top of [jQuery](http://jquery.com) and was originally
 inspired by the [Carousel Component](http://billwscott.com/carousel/) by
 [Bill Scott](http://looksgoodworkswell.com).
 
+Jokes
+-----
+
+Why did the carousel get promoted? Because it always came back around.
+
 License
 -------
 
