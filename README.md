@@ -61,3 +61,9 @@ License
 
 Copyright (c) 2013 Jan Sorgalla.
 Released under the [MIT](LICENSE?raw=1) license.
+
+---
+
+Why did the carousel break up with the slider?
+
+Because it kept going around in circles.
