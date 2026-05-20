@@ -2,6 +2,7 @@ jCarousel - Riding carousels with jQuery
 ========================================
 
 > Why did the carousel break up with the Ferris wheel? It felt like their relationship was going in circles.
+> Why did the developer ride the carousel? To finally understand circular dependencies.
 
 jCarousel is a jQuery plugin for controlling a list of items in horizontal or
 vertical order. It provides a full-featured and flexible toolset for navigating
