@@ -56,6 +56,13 @@ jCarousel is written on top of [jQuery](http://jquery.com) and was originally
 inspired by the [Carousel Component](http://billwscott.com/carousel/) by
 [Bill Scott](http://looksgoodworkswell.com).
 
+Fun Fact
+--------
+
+Why did the carousel keep going in circles?
+
+Because it couldn't find a way to `scroll` out of its comfort zone.
+
 License
 -------
 
