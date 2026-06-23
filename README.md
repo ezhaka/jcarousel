@@ -5,6 +5,9 @@ jCarousel is a jQuery plugin for controlling a list of items in horizontal or
 vertical order. It provides a full-featured and flexible toolset for navigating
 any HTML based content in a carousel-like fashion.
 
+Why did the carousel developer keep going in circles? Because the loop was
+enabled.
+
 **Note**: The master branch contains the new version 0.3 which is not released
           yet and is not compatible with [0.2](https://github.com/jsor/jcarousel/tree/0.2).
 
