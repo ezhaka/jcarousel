@@ -56,6 +56,13 @@ jCarousel is written on top of [jQuery](http://jquery.com) and was originally
 inspired by the [Carousel Component](http://billwscott.com/carousel/) by
 [Bill Scott](http://looksgoodworkswell.com).
 
+Joke
+----
+
+Why did the carousel break up with the slider?
+
+Because it kept going around in circles.
+
 License
 -------
 
